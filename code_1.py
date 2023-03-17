@@ -1,3 +1,5 @@
 print("hello")
 print("Je moeder")
-from django.utils.translation import ugettext_lazy as _
+x = 5
+x += 3
+print(x)
