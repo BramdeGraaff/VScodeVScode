@@ -6,3 +6,4 @@ print(x)
 
 if x = 8
 print("The number is 8")
+#test dit maar eens
